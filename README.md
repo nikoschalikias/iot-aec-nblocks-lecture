@@ -22,6 +22,8 @@
 
 ## nBlocks Presentations to re-use
 
+> In .gitignore, since they are large and some might contain protected IP
+
 * 25-Jan-21  02:38 PM        27,448,586 1.biot_nblocks_nblocksStudio.pptx
 * 19-Oct-21  02:04 PM        29,844,514 2.it_cork-NBLOCKS-14-09-2020.pptx
 * 21-Jan-20  12:28 PM         4,523,602 4.Hardware-beyondiot.pptx
