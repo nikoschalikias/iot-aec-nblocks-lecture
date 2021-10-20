@@ -1,10 +1,10 @@
 # [![](https://img.shields.io/badge/nikoschalikias-green.svg)](https://github.com/nikoschalikias) 
 
-# [iot-aen-lecture](https://github.com/nikoschalikias/iot-aen-lecture)
+# [iot-aec-nblockslecture](https://github.com/nikoschalikias/iot-aec-nblockslecture)
 
 ## lecture  setup notes    
           
-* [go to CIT](https://www.cit.ie/)
+* [go to CIT](https://www.cit.ie)
   *  login with old cit user name and current pasword
 * [Staff Portal](https://workvivo.cit.ie/)
 * [Login to canvas](https://cit.instructure.com/)
@@ -19,6 +19,20 @@
 * Effort to develop
 * Example projects
 * Considerations for development
+
+## Contents
+* IoT Hardware development in Nimbus
+* n-Blocks Hardware Platform
+  * Motivation
+  * Concepts
+  * Modularity
+  * Some use cases
+* nBlocksStudio Firmware Development Platform
+  * Concepts
+  * Workflow
+  * Examples
+* Summary
+
 
 ## nBlocks Presentations to re-use
 
