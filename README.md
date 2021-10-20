@@ -47,3 +47,389 @@
 * 28-Feb-20  02:35 PM        55,936,323 EWC_n-Blocks_presentation_final_02.pptx
 * 20-Feb-18  12:11 PM        60,662,702 N-LoRaWAN.pptx
 * 19-Sep-18  11:23 AM        11,585,384 project_Aquarius.pptx
+
+
+## Slideck
+
+----
+
+<p align="center">
+<img
+src="img/Slide1.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+<p align="center">
+<img
+src="img/Slide2.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide3.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide4.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide5.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide6.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide7.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide8.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide9.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide10.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide11.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide12.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide13.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide14.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide15.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide16.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide17.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide18.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide19.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide20.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide21.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide22.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide23.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide24.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide25.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide26.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide27.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide28.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide29.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide30.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide31.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
+
+
+<p align="center">
+<img
+src="img/Slide32.PNG"
+width = 900
+/>
+</p>
+
+-----
+
+
