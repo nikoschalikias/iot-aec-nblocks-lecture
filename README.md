@@ -1,6 +1,6 @@
 # [![](https://img.shields.io/badge/nikoschalikias-green.svg)](https://github.com/nikoschalikias) 
 
-# [iot-aec-nblockslecture](https://github.com/nikoschalikias/iot-aec-nblockslecture)
+# [iot-aec-nblocks-lecture](https://github.com/nikoschalikias/iot-aec-nblockslecture)
 
 ## lecture  setup notes    
           
